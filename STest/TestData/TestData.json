@@ -1,0 +1,14 @@
+{
+    "SaveDevice": {
+        "device_name": "AutomationDevice",
+        "device_type": "Ultrasound devices",
+        "unit": "3201Y Surgery outpatient clinic"
+    },
+    "SaveHumanResource": {
+        "first_name": "AutomationFirstName",
+        "last_name": "AutomationLastName",
+        "natural_name": "AutomationNaturalName",
+        "speciality_role": "25 Neurosurgery",
+        "unit": "3201Y Surgery outpatient clinic"
+    }
+}
